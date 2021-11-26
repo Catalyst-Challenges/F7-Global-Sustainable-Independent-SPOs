@@ -3,7 +3,8 @@ title: F7 - Global Sustainable Indep. SPO's
 description: How can we promote a decentralised, globally distributed and sustainable pool of operators to run the Cardano network
 Ideascale: https://cardano.ideascale.com/a/campaign-home/26246
 ---
-![2021-11-24 (2)](https://user-images.githubusercontent.com/25156451/143222960-f4889ea5-814e-49a2-8d8a-5a3146520423.png)
+
+![2021-11-26 (9)](https://user-images.githubusercontent.com/25156451/143660253-838444e1-1d7b-4077-ab8a-dae44b4815d7.png)
 
 # F7 - Global Sustainable Indep. SPO's
 
